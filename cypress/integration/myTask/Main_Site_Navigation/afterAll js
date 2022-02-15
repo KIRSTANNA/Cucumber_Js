@@ -1,0 +1,16 @@
+
+after(() => {
+  cy.log(
+    "It should be done after the all mobile tests"
+  );
+ cy.visit('/')
+ cy.viewport(2000,1300)
+ cy.viewport('desctop')
+/* cy.visit('/', {
+  onBeforeLoad: (win) => {
+    win.ontouchstart = false
+  } */
+
+ // cy.realTouch(); realSwipe(); // cypress-real-events plugin
+ // https://help.perfecto.io/perfecto-help/content/perfecto/integrations/cypress.htm
+});

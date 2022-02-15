@@ -1,0 +1,8 @@
+{
+    "viewportWidth": 2000,
+    "viewportHeight": 1300,
+    "testFiles": "**/*.{feature,features}",
+    "baseUrl": "https://www.ninjacasino.com/",
+    "defaultCommandTimeout": 40000,
+    "video": false
+}
