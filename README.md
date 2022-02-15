@@ -1,7 +1,7 @@
 # Cucumber_Js
 
 ### The repository contains the answer to the task:
-Code Challenge
+Code Challenge - 
 Frontend_Test_Automation_Engineer_Test (task.pdf)
 
 Solution uses js, cypress and cypress-cucumber-preprocessor plugin.
