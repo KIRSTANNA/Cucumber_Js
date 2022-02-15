@@ -1,5 +1,5 @@
 {
-  "name": "task",
+  "name": "cucumber_js",
   "version": "1.0.0",
   "description": "Example of cypress with cucumber",
   "main": "index.js",
